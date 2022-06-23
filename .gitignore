@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+my-app/node_modules
+hardhat-tutorial/.env
+hardhat-tutorial/node_modules
+hardhat-tutorial/cache
+hardhat-tutorial/artifacts
